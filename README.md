@@ -1,1 +1,1 @@
-# Play the snake game.
+# Play the snake game!
