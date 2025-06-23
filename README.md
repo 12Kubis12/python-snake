@@ -14,11 +14,11 @@ This project is a traditional Snake game where the player guides a snake to eat 
 
 ## ✨ Features
 
-- ✅ Smooth directional controls with arrow keys (or WSAD) 
-- 🍎 Randomly spawning food items  
-- 📈 Growing snake and score counter  
-- 💥 Self-collision & border detection  
-- 🎮 Optional features: adding walls or hunter, adjustable speed, snake size, field size and starting options
+- Directional controls with arrow keys (or WSAD) 
+- Randomly spawning food items  
+- Growing snake and score counter  
+- Self-collision & border detection  
+- Optional features: adding walls or hunter, adjustable speed, snake size, field size and starting options
 
 ---
 
