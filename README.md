@@ -6,10 +6,6 @@ A classic **Snake** game implemented in Python using **Tkinter**.
 
 This project is a traditional Snake game where the player guides a snake to eat food and grow longer, while avoiding collisions with walls, hunters or its own tail.
 
-## Demo
-
-![image](https://github.com/user-attachments/assets/37536629-0f4a-4aed-8344-5cec1c3259aa)
-
 ---
 
 ## ✨ Features
